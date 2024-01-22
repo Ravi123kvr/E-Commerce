@@ -248,6 +248,8 @@ url: https://swapnilbamble1438.github.io/EcommerceApplication/
 
   Note: Put Address according to your Database Name and Password.
 
+  This project demontrate the simple Java/J2EE Values
+
   - Save the file
 
   - Now try running Project and Check if the changes are done or not.
